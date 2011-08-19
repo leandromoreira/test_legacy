@@ -1,4 +1,4 @@
-require '~/test_legacy/amazon_page.rb'
+require 'amazon_page.rb'
 
 describe AmazonPage do
  before(:each) do
